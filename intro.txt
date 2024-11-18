@@ -1,0 +1,6 @@
+Java is a programming language designed in 1995 by James Gosling but later was adopted by Oracle.
+You need to setup JDK in order to write, compile execute and edit codes in java.
+you can download JDK(Java Development Kit) from oracle website by browsing "JDK download". And you need an IDE(Integrated Development Enviroment)
+like Eclipse, Netbeans, IntelliJ IDEA to write, compile and execute java code. You can download any of them but as for me vs code is quite better as for 
+java development. You can download it from official website of vs code. You can also use online compilers.
+vs code editor is free and light weighted.
