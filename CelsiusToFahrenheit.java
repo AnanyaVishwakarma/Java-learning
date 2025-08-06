@@ -5,6 +5,8 @@ public class celciusToFahrenheit {
         if(n == 0) return 32;
         if (n > 0){
             n = (int) ((n*1.8) + 32);
-}
-    
+        //    n = Math.abs((n*1.8) +32);
+        } 
+        return n;
+    }
 }
