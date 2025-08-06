@@ -3,6 +3,8 @@ import java.util.Scanner;
 public class celciusToFahrenheit {
     public int  conversion(int n){
         if(n == 0) return 32;
-    }
+        if (n > 0){
+            n = (int) ((n*1.8) + 32);
+}
     
 }
