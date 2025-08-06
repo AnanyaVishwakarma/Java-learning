@@ -12,5 +12,9 @@ public class celciusToFahrenheit {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        celciusToFahrenheit obj = new celciusToFahrenheit();}    
+        celciusToFahrenheit obj = new celciusToFahrenheit();
+        System.out.print("Enter the degree in celcius: ");
+        int n = sc.nextInt();
+        System.out.println(obj.conversion(n));
+    }    
 }
