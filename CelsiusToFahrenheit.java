@@ -9,4 +9,8 @@ public class celciusToFahrenheit {
         } 
         return n;
     }
+
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        celciusToFahrenheit obj = new celciusToFahrenheit();}    
 }
