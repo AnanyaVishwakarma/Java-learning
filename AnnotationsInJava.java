@@ -4,7 +4,7 @@ public void showB(){
 }
 }
 class B extends A{
-    @Override
+    @Override   //Annotation
     public void showB(){
     System.out.println("In B");
 }
@@ -17,3 +17,4 @@ public static void main(String[] args) {
 }
 
 }
+
