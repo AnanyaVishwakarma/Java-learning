@@ -4,6 +4,7 @@ public void showB(){
 }
 }
 class B extends A{
+    @Override
     public void showB(){
     System.out.println("In B");
 }
@@ -14,4 +15,5 @@ public static void main(String[] args) {
     B obj =  new B();
     obj.showB();
 }
+
 }
