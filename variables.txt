@@ -1,0 +1,9 @@
+Programming helps us to build softwares or applications. Why? because an application helps in solving REAL WORLD problems with the help of VIRTUAL WORLD.
+this problem solving is done through and on data,  
+input data -> data process -> output; while processing the data, we need to store data somewhere, that's when the term "Variables" comes to action 
+these Variables are storage like thingy in Programming which stores data to process it.
+diffrent storages for diffrent types of data(e.g. number, text, img, audio etc.) in normal case java is different.
+# Every statement ends with a semicolon ";" and every block of code ends and start with parenthesis "{}" #
+    Datatype  variable          value__a semicolon to end the statement
+    int       num          =     35;
+    
